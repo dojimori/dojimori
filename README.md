@@ -17,7 +17,7 @@
 
 
 
-<img width="388" align="center" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>
+<img width="288" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>
 
 
 <!-- <img width="144" align="left" src="https://github.com/user-attachments/assets/7f6d5353-9d67-4e46-b9f1-80dd15a573cb"/> -->
