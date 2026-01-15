@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-mongodb-47A248?style=plastic&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-tailwind-06B6D4?style=plastic&logo=tailwind-css&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-yarn-2C8EBB?style=plastic&logo=yarn&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-API-orange?style=plastic&logo=postman&logoColor=white)
 
 
 </p>
