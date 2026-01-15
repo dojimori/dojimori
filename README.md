@@ -6,7 +6,7 @@
 
 <p>
   
-  ![](https://komarev.com/ghpvc/?username=dojimori&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=dojimori&style=plastic&label=Visitors)
   [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 </p>
 
