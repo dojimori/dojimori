@@ -2,12 +2,16 @@
 <!--## こんにちは, dojimori です!-->
 <p align='center'>Freshman BSIT student @ <strong>USTP-Cagayan De Oro City</strong></p>
 <p align='center'><i ><strong>1R6</strong></i></p> 
+
+<p>
+
+  ![](https://komarev.com/ghpvc/?username=dojimori&style=for-the-badge)
+  [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=for-the-badge&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
+</p>
+
+
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
-
-## 
-
   
-[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
   <!--<img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/>-->
 <!--`INTP, so introverted and lazy. programming is my escape from reality.`-->
 <p align="center">
@@ -18,7 +22,6 @@
 
 
 <img width="288" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>
-
 
 <!-- <img width="144" align="left" src="https://github.com/user-attachments/assets/7f6d5353-9d67-4e46-b9f1-80dd15a573cb"/> -->
 
