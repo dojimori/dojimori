@@ -24,7 +24,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE: "True"
           SHOW_UPDATED_DATE: "False"
           SHOW_TITLE: "False"
 
