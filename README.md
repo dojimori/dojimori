@@ -35,9 +35,11 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue?style=plastic)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/I%27ve%20Written-6.39%20million%20lines%20of%20code-blue?style=plastic)
+
+---
 
 **I'm a Night 🦉** 
 
