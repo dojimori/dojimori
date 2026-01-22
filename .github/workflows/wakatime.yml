@@ -20,4 +20,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_TIMELINE: "False"
+          SHOW_SHORT_INFO: "False"
