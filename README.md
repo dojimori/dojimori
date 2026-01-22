@@ -35,11 +35,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.39%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue?style=plastic)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.39%20million%20lines%20of%20code-blue?style=plastic)
+--
 
 ```text
 🌞 Morning                333 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
@@ -47,7 +45,6 @@
 🌃 Evening                666 commits         ███████████░░░░░░░░░░░░░░   44.49 % 
 🌙 Night                  90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
-📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
@@ -58,9 +55,6 @@ Friday                   139 commits         ██░░░░░░░░░�
 Saturday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
 Sunday                   315 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
