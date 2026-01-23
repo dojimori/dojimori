@@ -8,8 +8,6 @@
 ![](https://komarev.com/ghpvc/?username=dojimori&style=plastic)
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 
-<a href="https://u8views.com/github/dojimori"><img src="https://u8views.com/api/v1/github/profiles/141463739/views/day-week-month-total-count.svg"></a>
-
 ---  
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
   
