@@ -27,4 +27,5 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_UPDATED_DATE: "False"
           SHOW_TITLE: "False"
+          SHOW_PROFILE_VIEWS: "False"
 
