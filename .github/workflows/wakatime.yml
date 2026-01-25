@@ -26,6 +26,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE: "True"
           SHOW_UPDATED_DATE: "False"
-          SHOW_TITLE: "False"
           SHOW_PROFILE_VIEWS: "False"
 
