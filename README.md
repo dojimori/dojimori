@@ -1,4 +1,4 @@
-![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)
+<!--![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)-->
 
 # @dojimori 
 <p align='left'>Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong></p>
