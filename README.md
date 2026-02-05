@@ -3,9 +3,8 @@
 # @dojimori 
 <p align='left'>Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong></p>
 <!-- <p align='left'><i ><strong>1R6</strong></i></p>  -->
-<!-- <img width="288" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/> -->
 
-<!-- <img width="244" align="right" src="https://github.com/user-attachments/assets/a7926ce7-66e4-4323-bdce-4f8f88c29354"/> -->
+<!-- <img width="288" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/> -->
 <img width="244" align="right" src="https://github.com/user-attachments/assets/0c35a0b9-8749-4322-af12-c0fa3276c8fe"/>
 
  
@@ -35,6 +34,8 @@
 
 
 </p>
+
+
 
 ---
 <!--START_SECTION:waka-->
@@ -75,49 +76,4 @@ HTTP                     9 mins              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-<!-- <img width="144" align="left" src="https://github.com/user-attachments/assets/7f6d5353-9d67-4e46-b9f1-80dd15a573cb"/> -->
-
-<!-- I enjoy building web apps, and mobile apps for fun
-- I love learning more on softwares and networking
-- I'm a beginner at everything
--->
-
-  
-<!-- <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/318055ec-6167-4a0a-b7a3-6905d01ae75c" width="200"/>
-    </td>
-    <td align="center" width="50%">
-      <h4>Languages & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,yarn,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=compact&langs_count=10&theme=gruvbox" />
-    </td>
-  </tr>
-</table> -->
-<!-- <h4 align="center">Languages & Tools</h4> -->
-
-<!-- <table width="100%">
-
-  <tr>
-    <td align="center" width="60%">
-      <img
-        src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn,mysql&perline=6"
-      />
-    </td>
-    <td align="center" width="40%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=donut-vertical&theme=gruvbox&langs_count=10&stats_format=bytes"
-        />
-      </a>
-    </td>
-  </tr>
-</table> -->
-<!-- <p align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn,mysql&perline=12"/>
- </p>
-
-
+<img width="244" align="right" src="https://github.com/user-attachments/assets/a7926ce7-66e4-4323-bdce-4f8f88c29354"/> 
