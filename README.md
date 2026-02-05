@@ -75,5 +75,6 @@ HTTP                     9 mins              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<img width="244" align="right" src="https://github.com/user-attachments/assets/a7926ce7-66e4-4323-bdce-4f8f88c29354"/> 
+<p align="right" style="font-size: 6px"><i>another cat</i>
+<img width="200" align="right" src="https://github.com/user-attachments/assets/a7926ce7-66e4-4323-bdce-4f8f88c29354"/> 
+</p>
