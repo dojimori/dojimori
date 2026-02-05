@@ -3,7 +3,9 @@
 # @dojimori 
 <p align='left'>Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong></p>
 <!-- <p align='left'><i ><strong>1R6</strong></i></p>  -->
-<img width="288" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>
+<!-- <img width="288" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/> -->
+
+<img width="244" align="right" src="https://github.com/user-attachments/assets/a7926ce7-66e4-4323-bdce-4f8f88c29354"/>
 
  
 ![](https://komarev.com/ghpvc/?username=dojimori&style=plastic)
