@@ -10,7 +10,7 @@
  
 ![](https://komarev.com/ghpvc/?username=dojimori&style=plastic)
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.gg/minjisopretty626)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
 
 ---  
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
