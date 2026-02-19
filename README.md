@@ -5,9 +5,10 @@
 <!-- <p align='left'><i ><strong>1R6</strong></i></p>  -->
 
 <!-- <img width="288" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/> -->
-<img width="244" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>
+<img width="244" align="left" src="https://github.com/user-attachments/assets/fab37bd7-3786-4420-b3cf-b30191ca0cfe"/>
+<!-- <img width="244" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/> -->
 
- 
+
 ![](https://komarev.com/ghpvc/?username=dojimori&style=plastic)
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
@@ -37,5 +38,7 @@
 </p>
 
 ---
+
+
 
 
