@@ -5,7 +5,7 @@
 <!-- <p align='left'><i ><strong>1R6</strong></i></p>  -->
 
 <!-- <img width="288" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/> -->
-<img width="244" align="right" src="https://github.com/user-attachments/assets/0c35a0b9-8749-4322-af12-c0fa3276c8fe"/>
+<img width="244" align="right" src="https://github.com/user-attachments/assets/84d2fd27-ee29-498e-97d4-6f477fafe801"/>
 
  
 ![](https://komarev.com/ghpvc/?username=dojimori&style=plastic)
