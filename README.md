@@ -1,10 +1,12 @@
 <!--![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)-->
 
+<img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/a4b0b318-4530-433b-be27-568a00a9cfc1">
+
 # @dojimori 
 <p align='center'>Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong></p>
 <!-- <p align='left'><i ><strong>1R6</strong></i></p>  -->
 
-<img width="244" align="left" src="https://github.com/user-attachments/assets/a4d6d3ac-8f68-4a55-aa5a-d85361154a3a"/> 
+<!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/a4d6d3ac-8f68-4a55-aa5a-d85361154a3a"/>  -->
 <!-- <img width="288" align="left" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>  -->
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/fab37bd7-3786-4420-b3cf-b30191ca0cfe"/>  -->
 <!-- <img width="244" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  -->
