@@ -11,12 +11,12 @@
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/a4d6d3ac-8f68-4a55-aa5a-d85361154a3a"/>  -->
 <!-- <img width="288" align="left" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>  -->
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/fab37bd7-3786-4420-b3cf-b30191ca0cfe"/>  -->
-<!-- <img width="244" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  -->
-<!-- <img width="288" align="left" src="https://github.com/user-attachments/assets/8c2141ed-fe84-46bb-939f-d702ecf607d1"/> -->
 
 ---
 
-<div align="center">
+<img width="244" align="left" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  
+
+<div align="left">
   <p>Skills</p>
 
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white" />
@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/PHP-php-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </div>
+
+
+
 
 # Socials
 
