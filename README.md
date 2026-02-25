@@ -36,7 +36,7 @@
 
 # Socials
 
-![](https://komarev.com/ghpvc/?username=dojimori&style=flat-square)
+![](https://komarev.com/ghpvc/?username=dojimori&style=flat-square&color=red&label=GH+Profile+Views)
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=flat-square&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
 
