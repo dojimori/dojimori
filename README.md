@@ -3,7 +3,9 @@
 <img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/c1c86fe3-1d26-4521-a578-b96cfe7725d4">
 
 # @dojimori 
-<p align='left'>Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong></p>
+- Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong>.
+- I'm interested in `Software Development` and `Networking`.
+
 <!-- <p align='left'><i ><strong>1R6</strong></i></p>  -->
 
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/a4d6d3ac-8f68-4a55-aa5a-d85361154a3a"/>  -->
