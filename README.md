@@ -15,23 +15,28 @@
 ---
 
 <div align="center">
-<p>Skills</p>
+  <p>Skills</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=plastic&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-TS-blue?style=plastic&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-vue-42b883?style=plastic&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-react-61DAFB?style=plastic&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-node-339933?style=plastic&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-express-000000?style=plastic&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-tailwind-06B6D4?style=plastic&logo=tailwind-css&logoColor=white)
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-TS-blue?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-vue-42b883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-react-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-node-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Express-express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PHP-php-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </div>
 
 # Socials
 
-![](https://komarev.com/ghpvc/?username=dojimori&style=plastic)
-[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
+![](https://komarev.com/ghpvc/?username=dojimori&style=flat-square)
+[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=flat-square&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
 
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
   
