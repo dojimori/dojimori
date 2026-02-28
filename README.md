@@ -15,26 +15,36 @@
 
 ---
 
-<img width="244" align="left" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  
-
+<img width="266" align="left" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  
 <div align="left">
-  <p>Skills</p>
+  <p>frontend</p>
 
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-TS-blue?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-vue-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-react-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-node-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Express-express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/PHP-php-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</div>
+  
+  <p>backend</p>
 
+  <img src="https://img.shields.io/badge/Node.js-node-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+
+  <p>database / orm</p>
+
+  <img src="https://img.shields.io/badge/MongoDB-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+
+  <p>tools</p>
+
+  <img src="https://img.shields.io/badge/Git-git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+</div>
 
 
 
