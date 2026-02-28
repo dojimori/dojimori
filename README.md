@@ -15,44 +15,42 @@
 
 ---
 
-<img width="266" align="left" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  
+<img width="266" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  
 <div align="left">
   <p>frontend</p>
 
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-TS-blue?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-vue-42b883?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-react-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=plastic&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white" />
   
   <p>backend</p>
 
-  <img src="https://img.shields.io/badge/Node.js-node-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" />
 
   <p>database / orm</p>
 
-  <img src="https://img.shields.io/badge/MongoDB-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white" />
 
   <p>tools</p>
-
-  <img src="https://img.shields.io/badge/Git-git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
 
 </div>
 
-
-
 # Socials
 
-![](https://komarev.com/ghpvc/?username=dojimori&style=flat-square&color=red&label=GH+Profile+Views)
-[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=flat-square&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
+![](https://komarev.com/ghpvc/?username=dojimori&style=plastic&color=red&label=GH+Profile+Views)
+[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
 
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
   
