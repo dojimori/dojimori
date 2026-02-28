@@ -15,7 +15,7 @@
 
 ---
 
-<img width="266" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  
+<img width="256" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  
 <div align="left">
   <p>frontend</p>
 
