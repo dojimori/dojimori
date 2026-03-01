@@ -1,6 +1,6 @@
 <!--![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)-->
 
-<img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/c1c86fe3-1d26-4521-a578-b96cfe7725d4">
+<!-- <img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/c1c86fe3-1d26-4521-a578-b96cfe7725d4"> -->
 
 # @dojimori 
 - Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong>.
@@ -15,7 +15,7 @@
 
 ---
 
-<img width="256" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>  
+<!-- <img width="256" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>   -->
 <div align="left">
   <p>frontend</p>
 
